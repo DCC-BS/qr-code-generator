@@ -1,0 +1,15 @@
+[project]
+name = "workspaces"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "accelerate>=1.1.1",
+    "diffusers>=0.31.0",
+    "qrcode>=8.0",
+    "requests>=2.32.3",
+    "streamlit>=1.40.2",
+    "torch>=2.5.1",
+    "transformers>=4.46.3",
+]
